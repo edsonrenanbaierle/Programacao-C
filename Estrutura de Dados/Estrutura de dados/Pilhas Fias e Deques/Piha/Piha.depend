@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661365440 source:d:\user\desktop\estrutura de dados\pilhas fias e deques\piha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

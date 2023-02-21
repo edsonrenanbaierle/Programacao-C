@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665929499 source:d:\user\desktop\estrutura de dados\pilhafilaenc\quest1func\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

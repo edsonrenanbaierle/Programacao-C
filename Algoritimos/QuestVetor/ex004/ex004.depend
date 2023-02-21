@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668001934 source:d:\user\desktop\prp\questvetor\ex004\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+

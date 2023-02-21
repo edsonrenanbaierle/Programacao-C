@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660915294 source:d:\user\desktop\prp\switch_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

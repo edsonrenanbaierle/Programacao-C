@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662229484 source:d:\user\desktop\estrutura de dados\questãoantesdaprova-pilha-fila-deque\ex04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

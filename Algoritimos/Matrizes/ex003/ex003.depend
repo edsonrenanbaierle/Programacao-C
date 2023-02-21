@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667501802 source:d:\user\desktop\prp\matrizes\ex003\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+

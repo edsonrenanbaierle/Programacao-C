@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664928533 source:d:\user\desktop\estrutura de dados\listaduplaenca\milhao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

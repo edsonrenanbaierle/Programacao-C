@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664460871 source:d:\user\desktop\estudos\ques3\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+

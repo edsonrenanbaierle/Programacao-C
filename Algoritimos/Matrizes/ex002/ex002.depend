@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667477823 source:d:\user\desktop\estruturas encadeadas\ex002\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1667478010 source:d:\user\desktop\prp\matrizes\ex002\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

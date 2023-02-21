@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660674181 source:d:\user\desktop\nova lista condicional\lista_sequencial_meio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

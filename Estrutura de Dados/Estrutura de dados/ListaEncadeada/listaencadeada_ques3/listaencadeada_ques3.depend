@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664049013 source:d:\user\desktop\estrutura de dados\listaencadeada\listaencadeada_ques3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

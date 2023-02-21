@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663542696 source:d:\user\desktop\prp\para\questao8para\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

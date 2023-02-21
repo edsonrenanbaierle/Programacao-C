@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666789933 source:d:\user\desktop\estruturas encadeadas\quetao6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666105134 source:d:\user\desktop\estruturas encadeadas\lista_enc_nor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

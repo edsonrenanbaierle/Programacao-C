@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662483138 source:d:\user\desktop\estrutura de dados\pilha-fila-lista\lista-struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

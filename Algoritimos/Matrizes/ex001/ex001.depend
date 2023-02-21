@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667475896 source:d:\user\desktop\estruturas encadeadas\ex001\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+

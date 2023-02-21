@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661861494 source:d:\user\desktop\prp\questões de modularização\questão1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

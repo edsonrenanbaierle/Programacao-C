@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660860674 source:d:\user\desktop\prp\questões de condicionais\questão8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

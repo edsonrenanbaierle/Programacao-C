@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660762203 source:d:\user\desktop\nova lista condicional\vamosla\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

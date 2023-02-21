@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665511848 source:d:\user\desktop\estrutura de dados\pilhafilaenc\pilhaencfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

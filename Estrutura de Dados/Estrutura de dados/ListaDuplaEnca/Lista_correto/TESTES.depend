@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664627765 source:d:\user\desktop\estrutura de dados\listaduplaenca\testes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
